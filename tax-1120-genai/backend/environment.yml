@@ -1,0 +1,10 @@
+name: tax1120
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - fastapi
+      - uvicorn
+      - openai
+      - pydantic
+      - python-dotenv
